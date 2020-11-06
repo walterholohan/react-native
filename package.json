@@ -210,8 +210,8 @@
     "wait-on": "^3.3.0"
   },
   "peerDependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3"
+    "react": "*",
+    "react-dom": "*"
   },
   "engines": {
     "node": ">=8.10.0",
